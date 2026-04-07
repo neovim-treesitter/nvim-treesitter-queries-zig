@@ -1,7 +1,7 @@
 {
-  "parser_version": "6479aa13f32f701c383083d8b28360ebd682fb7d",
-  "location": null,
   "lang": "zig",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-zig",
-  "semver": false
+  "semver": false,
+  "parser_version": "6479aa13f32f701c383083d8b28360ebd682fb7d",
+  "location": null
 }
